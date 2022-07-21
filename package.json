@@ -1,0 +1,12 @@
+{
+  "name": "dracula-high-contrast-gitkraken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dracula",
+    "gitkraken",
+    "dracula-high-contrast"
+  ]
+}
